@@ -10,7 +10,17 @@
 
 ```js
 Frontend Developer  -|-  UI / UX Designer  -|-  3D Modeller
-```  
+```
+<br></br>
+
+I am an aspiring developer who enjoys creating interactive and detail-driven user experiences.
+<br></br>
+Detail is everything to me, which is why i take pride in my work and designs.
+<br></br>
+Check out some of my Socials over here 
+<br></br>
+⬇️⬇️
+
 </div>
 <!---
 sixLUKEY/sixLUKEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
