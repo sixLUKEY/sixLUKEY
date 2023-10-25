@@ -23,6 +23,8 @@ Check out some of my Socials over here
 
 <a href="https://www.linkedin.com/in/luke-evertson-7125b0276/">Linkedin
 </a>
+
+![sixLUKEY's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixLUKEY&show_icons=true&theme=onedark)
 </div>
 <!---
 sixLUKEY/sixLUKEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
