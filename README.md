@@ -21,6 +21,8 @@ Check out some of my Socials over here
 <br></br>
 ⬇️⬇️
 
+<a href="https://www.linkedin.com/in/luke-evertson-7125b0276/">Linkedin
+</a>
 </div>
 <!---
 sixLUKEY/sixLUKEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
