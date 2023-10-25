@@ -26,7 +26,7 @@ Check out some of my Socials over here
 
 ![sixLUKEY's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixLUKEY&show_icons=true&title_color=F99909&bg_color=1A1A1A&border_color=F99909&text_color=CDCCCC&icon_color=575757)
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixLUKEY)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixLUKEY)](https://github.com/anuraghazra/github-readme-stats&langs_count=8)
 </div>
 <!---
 sixLUKEY/sixLUKEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
