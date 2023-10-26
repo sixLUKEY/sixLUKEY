@@ -12,7 +12,7 @@ Frontend Developer  -|-  UI / UX Designer  -|-  3D Modeller
 I am an aspiring developer who enjoys creating interactive and detail-driven user experiences.
 <br></br>
 Detail is everything to me, which is why i take pride in my work and designs.
-<br></br>
+
 <br></br>
 
 ### Check out some of my Socials over here 
