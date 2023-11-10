@@ -6,7 +6,7 @@
 ![Profile 1](https://github.com/sixLUKEY/sixLUKEY/assets/130046695/98a3df56-cea3-4c39-bd73-216114bc8c2f)
 
 ```js
-Frontend Developer  -|-  UI / UX Designer  -|-  3D Modeller
+Frontend Developer  -|-  UI / UX Designer  -|-  CSS Enjoyer
 ```
 
 I am an aspiring developer who enjoys creating interactive and detail-driven user experiences.
