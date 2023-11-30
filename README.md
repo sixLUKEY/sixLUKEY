@@ -9,13 +9,13 @@
 Frontend Developer  -|-  UI / UX Designer  -|-  CSS Enjoyer
 ```
 
-I am an aspiring developer who enjoys creating interactive and detail-driven user experiences.
+An aspiring developer who enjoys creating interactive and detail-driven user experiences.
 <br></br>
 Detail is everything to me, which is why I am passionate about my work and designs.
 
 <br></br>
 
-### Check out some of my Socials over here 
+### Check out my Socials over here 
 ⬇️⬇️
 <br></br>
 
