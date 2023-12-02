@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi There 🙋‍♂️
+## Oh hi There 🙋‍♂️
 # I am Luke Evertson 🐐
   
 ![Profile 1](https://github.com/sixLUKEY/sixLUKEY/assets/130046695/98a3df56-cea3-4c39-bd73-216114bc8c2f)
