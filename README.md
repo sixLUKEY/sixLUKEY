@@ -9,7 +9,7 @@
 Frontend Developer  -|-  UI / UX Designer  -|-  CSS Enjoyer
 ```
 
-An aspiring developer who enjoys creating interactive and detail-driven user experiences.
+Software Engineer who enjoys creating interactive and detail-driven user experiences.
 <br></br>
 Detail is everything to me, which is why I am passionate about my work and designs.
 
