@@ -15,7 +15,6 @@ Detail is everything to me, which is why I am passionate about my work and desig
 
 <br></br>
 
-
 ### Check out my socials over here 
 ⬇️⬇️
 <br></br>
