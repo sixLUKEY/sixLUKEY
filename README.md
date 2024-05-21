@@ -5,8 +5,8 @@
   
 ![Profile 1](https://github.com/sixLUKEY/sixLUKEY/assets/130046695/98a3df56-cea3-4c39-bd73-216114bc8c2f)
 
-```ts
- Engineer / Problem solver
+```js
+ Engineer && problemSolver
 ```
 
 Software Engineer who enjoys creating interactive and detail-driven user experiences.
