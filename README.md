@@ -5,8 +5,8 @@
   
 ![Profile 1](https://github.com/sixLUKEY/sixLUKEY/assets/130046695/98a3df56-cea3-4c39-bd73-216114bc8c2f)
 
-```js
-Frontend Developer  -|-  UI / UX Designer  -|-  CSS Enjoyer
+```ts
+ Engineer / Problem solver
 ```
 
 Software Engineer who enjoys creating interactive and detail-driven user experiences.
