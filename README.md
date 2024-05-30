@@ -27,7 +27,6 @@ Detail is everything to me, which is why I am passionate about my work and desig
     <img src="https://img.shields.io/badge/Behance-F99909?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 <br></br>
-<br></br>
 
 ### And some more stats here 
 ⬇️⬇️
