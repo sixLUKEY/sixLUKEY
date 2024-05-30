@@ -17,7 +17,6 @@ Detail is everything to me, which is why I am passionate about my work and desig
 ### Check out my socials over here 
 ⬇️⬇️
 <br></br>
-
  <a href="https://www.linkedin.com/in/luke-evertson-7125b0276/">
     <img src="https://img.shields.io/badge/LinkedIn-F99909?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
